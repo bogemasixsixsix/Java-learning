@@ -1,0 +1,18 @@
+package main.java.Lesson26;
+
+public class Book26 {
+    private String title;
+    private String author;
+    private int year;
+
+    public Book26(String title, String author, int year) {
+        this.title = title;
+        this.author = author;
+        this.year = year;
+    }
+
+    @Override 
+    public String toString() {
+        return "Book{title='" + title + "', author='" + author + "', year='" + year + "'}"; 
+    }
+}
