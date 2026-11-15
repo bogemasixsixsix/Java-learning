@@ -1,4 +1,5 @@
-// Файл: src/Main.java
+package main.java.Lesson1;
+
 public class test {                     // 1. Объявляем класс, имя файла должно совпадать с именем класса
     public static void main(String[] args) { // 2. Точка входа программы
         int age = 30;                   // 3. Переменная типа int

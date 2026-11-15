@@ -1,3 +1,5 @@
+package main.java.Lesson1;
+
 public class Studentinfo {
     public static void main(String[] args) {
         System.out.println("Student name: Evgeny");
