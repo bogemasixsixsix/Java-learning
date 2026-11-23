@@ -1,3 +1,4 @@
+package main.java.Lesson14;
 import java.util.Scanner;
 
 public class Task14_3 {

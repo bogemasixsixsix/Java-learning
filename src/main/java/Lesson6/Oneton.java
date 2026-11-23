@@ -1,3 +1,4 @@
+package main.java.Lesson6;
 public class Oneton {
     public static void main(String[] args) {
         int n = 6;

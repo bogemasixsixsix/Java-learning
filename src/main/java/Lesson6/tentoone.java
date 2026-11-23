@@ -1,3 +1,4 @@
+package main.java.Lesson6;
 public class tentoone {
     public static void main(String[] args) {
         int i = 10;

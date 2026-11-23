@@ -1,3 +1,4 @@
+package main.java.Lesson6;
 public class Summary {
     public static void main(String[] args) {
         int n = 7;

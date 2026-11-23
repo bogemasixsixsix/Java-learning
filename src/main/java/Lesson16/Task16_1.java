@@ -1,3 +1,5 @@
+package main.java.Lesson16;
+
 public class Task16_1 {
     public static void main(String[] args) {
         int[] numbers = new int[5];

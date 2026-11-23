@@ -1,3 +1,4 @@
+package main.java.Lesson9;
 public class Array3 {
     public static void main(String [] arg) {
         String text = "Hello World!";

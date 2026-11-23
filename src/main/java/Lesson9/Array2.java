@@ -1,3 +1,4 @@
+package main.java.Lesson9;
 public class Array2 {
     public static void main(String [] args) {
         String str1 = "Hello";

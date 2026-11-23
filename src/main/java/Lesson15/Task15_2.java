@@ -1,3 +1,4 @@
+package main.java.Lesson15;
 public class Task15_2 {
     public static int calculateArea(int a, int b) {
         return a * b;

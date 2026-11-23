@@ -1,3 +1,5 @@
+package main.java.Lesson2;
+
 public class PersonalData {
     public static void main(String[] args) {
         String name = "Vitaly";

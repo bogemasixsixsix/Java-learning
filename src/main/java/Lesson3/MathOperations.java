@@ -1,3 +1,5 @@
+package main.java.Lesson3;
+
 public class MathOperations {
     public static void main(String[] args) {
         int num1 = 40;

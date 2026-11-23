@@ -1,3 +1,5 @@
+package main.java.Lesson3;
+
 public class DistanceCalculator {
     public static void main(String[] args) {
         int speed = 60;

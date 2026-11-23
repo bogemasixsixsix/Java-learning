@@ -1,3 +1,5 @@
+package main.java.Lesson3;
+
 public class AreaCalculator {
     public static void main(String[] args) {
         int length = 5;

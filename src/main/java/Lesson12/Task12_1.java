@@ -1,3 +1,4 @@
+package main.java.Lesson12;
 public class Task12_1 {
     public static int multiply(int a, int b) {
         return a * b;

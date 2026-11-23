@@ -1,3 +1,5 @@
+package main.java.Lesson3;
+
 public class SimpleInterestCalculator {
     public static void main(String[] args) {
         int principal = 1000;

@@ -1,3 +1,4 @@
+package main.java.Lesson6;
 public class Rectangle {
     public static void main(String[] args) {
         int rows = 5;

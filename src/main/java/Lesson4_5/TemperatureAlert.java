@@ -1,3 +1,5 @@
+package main.java.Lesson4_5;
+
 public class TemperatureAlert {
     public static void main(String[] args) {
         int temperature = 30;

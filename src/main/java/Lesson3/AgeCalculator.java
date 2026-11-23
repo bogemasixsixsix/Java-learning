@@ -1,3 +1,5 @@
+package main.java.Lesson3;
+
 public class AgeCalculator {
     public static void main(String[] args) {
         int currentYear = 2025;

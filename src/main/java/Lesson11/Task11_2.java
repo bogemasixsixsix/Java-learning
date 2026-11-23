@@ -1,3 +1,4 @@
+package main.java.Lesson11;
 public class Task11_2 {
     public static void StudInfo() {
         System.out.println("Имя: Vitaly, Age: 27");

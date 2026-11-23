@@ -1,3 +1,5 @@
+package main.java.Lesson4_5;
+
 public class GradeChecker {
     public static void main(String[] args) {
         int score = 85;

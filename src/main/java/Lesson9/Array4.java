@@ -1,3 +1,4 @@
+package main.java.Lesson9;
 public class Array4 {
     public static void main (String [] arg) {
         String base = "Programming is fun";

@@ -1,3 +1,4 @@
+package main.java.Lesson7;
 public class Sumtofour {
     public static void main(String[] args) {
         int n = 4;

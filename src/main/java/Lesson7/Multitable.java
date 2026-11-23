@@ -1,3 +1,4 @@
+package main.java.Lesson7;
 public class Multitable {
     public static void main (String[] args) {
         for (int i = 2; i <= 4; i++) {
