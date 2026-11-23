@@ -5,7 +5,7 @@
             "type": "java",
             "name": "Debug App",
             "request": "launch",
-            "mainClass": "main.java.Lesson31"
+            "mainClass": "main.java.Lesson31.App31"
         }
     ]
 }

@@ -1,11 +1,16 @@
 {
-    "version": "2.0.0",
-    "tasks": [
-        {
-            "label": "build",
-            "type": "shell",
-            "command": "javac -d bin $(find src/main/java -name \"*.java\")",
-            "group": { "kind": "build", "isDefault": true }
-        }
-    ]
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build Java",
+      "type": "shell",
+      "command": "javac",
+      "args": [
+        "-d", "bin",
+        "src/main/java/Lesson31/*.java"
+      ],
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": []
+    }
+  ]
 }
